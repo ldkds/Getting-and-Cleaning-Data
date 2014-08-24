@@ -19,7 +19,7 @@ An identifier of the subject who carried out the experiment, ranging from 1 to 3
 
 The rest of the variables are measurements on the mean and standard deviation. They are shown below.
 They are of the following form:
-([**prefix**]) **signal**-**measure**[-**direction**]
+\<**prefix**\> \<**signal**\>-\<**measure**\>\[-**direction**\]
 
 * **prefix** 
   * "t" for time domain
